@@ -32,7 +32,7 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 
 ##  Amazon Shipping Analytics Dashboard
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
+<img src="https://github.com/taherkayamkhani/Tableau-Projects/blob/main/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
 
 
