@@ -1,40 +1,58 @@
-# What is Tableau ?  
+# Tableau-Projects
+Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
 
-Tableau software is one of the fastest growing data visualization tools which is currently being used in the Business intelligence industry.  
-It is the best way to change or transform the raw set of data into an easily understandable format with zero technical skills and coding knowledge.   
+  <pre>
+  1. Amazon Shipping Analytics    
+  2. Tesla Stock Price            
+  3. UT Mart Sales Analytics            
+  </pre>
 
-Tableau is basically a data visualization tool which provides pictorial and graphical representations of data.
-
-## What is Tableau used for?  
-
-Usage of Tableau software are listed below:
-
-- Tableau software is used to translate queries into visualization.  
-- It is also used for managing metadata.  
-- Tableau software imports data of all sizes and ranges.  
-- For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.  
-- Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.  
+View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
+https://public.tableau.com/profile/utkarsh.yadav6297#!/
 
 
-# Tesla Stock Price Analytics
 
-###  Overview 
+## Screenshots
 
-Tesla is an American electric vehicle and clean energy company. 
-An important shareholder is tired of receiving only monthly updates of the stock price. The shareholder would like to see any trends of the stock price specifically for the last 3 months. He also wants this data to be updated daily.
+### 1. Amazon Shipping Analytics Dashboard
 
-He has given us csv files from which we have to create a Dashboard for his quick review so that he could take further decisions for the benefit of the company.
+<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
-Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
-
-You can view Tesla Stock Price Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/profile/utkarsh.yadav6297#!/  
-
-
-##  Tesla Stock Price Analytics Dashboard
+### 2. Tesla Stock Price Dashboard
 
 <img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
 
+### 3. UT Mart Sales Analytics Dashboard
+
+<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales%20PNG.PNG" alt="SS 3"/>
 
 
 
+## What I Learnt in Tableau :
 
+
+
+  - To Create 3 interactive dashboards and publish it online to share
+
+  - Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
+
+  - To Create a variety of charts including bar charts, line charts, donut charts, maps, tables and dual axis charts.
+
+  - To Create calculated fields including developing IF Statements.
+
+  - To Create sets, hierarchies and groups.
+
+  - Understood how joins work.
+
+  - Understood Level Of Detail calculations.
+
+  - To Create Parameters
+
+  - Understood how to make use of the analytics pane including using trend lines
+
+  - Understood how to use dashboard actions and create interactive dashboards.
+
+  - Learnt creating a dashboard which updates daily via google sheets.            
+
+  
+  
