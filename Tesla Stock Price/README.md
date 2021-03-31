@@ -30,7 +30,7 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 
 ##  Tesla Stock Price Analytics Dashboard
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
+<img src="https://github.com/taherkayamkhani/Tableau-Projects/blob/main/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
 
 
 
